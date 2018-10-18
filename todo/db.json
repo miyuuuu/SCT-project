@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "todoTitle": "DVDを返す",
+      "todoFlag": false,
+      "id": 1
+    },
+    {
+      "todoTitle": "海へ行く",
+      "todoFlag": true,
+      "id": 2
+    }
+  ]
+}
