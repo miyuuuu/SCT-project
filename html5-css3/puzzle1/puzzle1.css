@@ -1,0 +1,42 @@
+.puzzle1 {
+  height: 1536px;
+  width: 1024px;
+  margin: auto;
+}
+
+.box_red,
+.box_blue {
+  width: 1024px;
+  height: 256px;
+}
+
+.box_yellow,
+.box_green {
+  height: 1024px;
+}
+
+.parent {
+  display: flex;
+}
+
+.child {
+  display: flex;
+}
+
+.box_red {
+  background-color: #e53935;
+}
+
+.box_yellow {
+  background-color: #fcb02d;
+  width: 340px;
+}
+
+.box_green {
+  background-color: #8bc34a;
+  width: 684px;
+}
+
+.box_blue {
+  background-color: #1976d2;
+}
